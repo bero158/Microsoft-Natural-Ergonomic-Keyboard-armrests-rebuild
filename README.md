@@ -4,10 +4,9 @@ Simple templates for Microsoft Natural Ergonomic Keyboard armrests faux leather 
 The reason I started this project is that I love the Microsoft Natural Ergonomic Keyboard 4000. Unfortunately, over time, the wrist rests on this keyboard wear out, and sadly, this model was discontinued in 2020, so it’s no longer possible to buy a new one.
 
 PDF files contain cutting lines which can be used by plotter, Zund cutting machine etc.
-Expects 12x12 pleather tile
+"A4" files are just right armrest divided to two files for printing on A4 printer. Contain helper mesh for easier gluing together.
 
 Faux leather:
- - selfadhesive
  - Material PU (pleather)
  - thick 0.8 - 0.9 mm (I'm not sure because the original material is in bad shape)
 
@@ -19,5 +18,5 @@ Howto:
 2. Carefully remove armersts. Slowly pull it up only. Not to sides because holders may broke easily.
 3. Peel broken pleather
 4. Cut new pleather pieces according to cuttings in PDF folder
-5. Stick it well onto the armrests
+5. Stick it well onto the armrests (strongly suggest using glue in spray instead of selfadhesive pleather)
 6. Screw everything back
